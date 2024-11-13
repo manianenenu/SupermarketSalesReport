@@ -19,4 +19,4 @@ This Power BI project provides an in-depth **Supermarket Sales Report**, showcas
 ## How to Use This Report
 1. **Clone this repository** to your local machine using:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/manianenenu/SupermarketSalesReport
